@@ -27,3 +27,4 @@ Landing page estática, responsiva, em português. Sem build, frameworks ou depe
 
 A preferência por tema claro/escuro é salva no navegador, com compatibilidade com a preferência anterior de FocusEdu.
 # Focus-Communnity
+# Focus-Communnity
